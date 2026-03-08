@@ -1,13 +1,13 @@
 body {
   background-color: #282c34;
-  color: white;
+  color: rgb(106, 101, 101);
   font-family: sans-serif;
   text-align: center;
   margin-top: 100px;
 }
 
 .moj-przycisk {
-  background-color: #61dafb;
+  background-color: #0b9ac1;
   color: black;
   padding: 15px 30px;
   font-size: 20px;
@@ -17,5 +17,5 @@ body {
 }
 
 .moj-przycisk:hover {
-  background-color: #ffffff;
+  background-color: #ac0a0a;
 }
